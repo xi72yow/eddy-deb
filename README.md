@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Eddy</h1>
+  <h1 align="center">Eddy - Fork</h1>
   <h3 align="center">A debian package installer for elementary OS</h3>
 </div>
 
